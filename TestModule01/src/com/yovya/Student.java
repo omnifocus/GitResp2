@@ -9,4 +9,6 @@ package com.yovya;
 public class Student {
     private int age;
     private String name;
+    //omnifocus给Student增加属性height;
+    private double height;
 }
