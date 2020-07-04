@@ -8,5 +8,7 @@ package com.yovya;
  */
 public class Student {
     private int age;
-    private String name;
+    private String name
+    //ivdo给Student增加height属性;
+    private int height;
 }
